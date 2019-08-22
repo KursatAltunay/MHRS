@@ -1,0 +1,17 @@
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.UI\bin\Debug\MHRS.UI.dll
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.UI\bin\Debug\MHRS.UI.pdb
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.UI\bin\Debug\MHRS.BLL.dll
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.UI\bin\Debug\MHRS.DTO.dll
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.UI\bin\Debug\MHRS.Entities.dll
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.UI\bin\Debug\MHRS.DAL.dll
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.UI\bin\Debug\MHRS.BLL.pdb
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.UI\bin\Debug\MHRS.DTO.pdb
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.UI\bin\Debug\MHRS.Entities.pdb
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.UI\bin\Debug\MHRS.DAL.pdb
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.UI\obj\Debug\MHRS.UI.csprojResolveAssemblyReference.cache
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.UI\obj\Debug\MHRS.UI.AnaGiris.resources
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.UI\obj\Debug\MHRS.UI.DoktorCalismaGunu.resources
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.UI\obj\Debug\MHRS.UI.DoktorGiris.resources
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.UI\obj\Debug\MHRS.UI.csproj.GenerateResource.Cache
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.UI\obj\Debug\MHRS.UI.dll
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.UI\obj\Debug\MHRS.UI.pdb

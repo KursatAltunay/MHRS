@@ -1,0 +1,11 @@
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.Entities\bin\Debug\MHRS.Entities.dll
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.Entities\bin\Debug\MHRS.Entities.pdb
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.csprojResolveAssemblyReference.cache
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.dll
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.pdb
+C:\Users\MSI CX62 6QD\Desktop\MHRS\MHRS.Entities\bin\Debug\MHRS.Entities.dll
+C:\Users\MSI CX62 6QD\Desktop\MHRS\MHRS.Entities\bin\Debug\MHRS.Entities.pdb
+C:\Users\MSI CX62 6QD\Desktop\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.csprojAssemblyReference.cache
+C:\Users\MSI CX62 6QD\Desktop\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\MSI CX62 6QD\Desktop\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.dll
+C:\Users\MSI CX62 6QD\Desktop\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.pdb

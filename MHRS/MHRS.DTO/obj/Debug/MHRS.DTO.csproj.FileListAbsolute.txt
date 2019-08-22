@@ -1,0 +1,11 @@
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.DTO\bin\Debug\MHRS.DTO.dll
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.DTO\bin\Debug\MHRS.DTO.pdb
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.DTO\obj\Debug\MHRS.DTO.csprojResolveAssemblyReference.cache
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.DTO\obj\Debug\MHRS.DTO.dll
+C:\Users\umut.canoglu\documents\visual studio 2015\Projects\MHRS\MHRS.DTO\obj\Debug\MHRS.DTO.pdb
+C:\Users\MSI CX62 6QD\Desktop\MHRS\MHRS.DTO\bin\Debug\MHRS.DTO.dll
+C:\Users\MSI CX62 6QD\Desktop\MHRS\MHRS.DTO\bin\Debug\MHRS.DTO.pdb
+C:\Users\MSI CX62 6QD\Desktop\MHRS\MHRS.DTO\obj\Debug\MHRS.DTO.csprojAssemblyReference.cache
+C:\Users\MSI CX62 6QD\Desktop\MHRS\MHRS.DTO\obj\Debug\MHRS.DTO.csproj.CoreCompileInputs.cache
+C:\Users\MSI CX62 6QD\Desktop\MHRS\MHRS.DTO\obj\Debug\MHRS.DTO.dll
+C:\Users\MSI CX62 6QD\Desktop\MHRS\MHRS.DTO\obj\Debug\MHRS.DTO.pdb
